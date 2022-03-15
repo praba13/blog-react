@@ -39,6 +39,18 @@ color: #333;
     padding: 20px;
 }
 
+/* 
+.is-active{
+    background-color: #f1356d;
+    color: #fff;
+    border: 0;
+    padding: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+    margin: 20px;
+}
+*/
+
 .not-found a {
     color: red;
     text-decoration: none;
